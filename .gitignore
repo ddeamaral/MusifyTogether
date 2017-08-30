@@ -6,4 +6,4 @@ wwwroot/images
 *.min.js
 *.min.css
 *.min.css.* 
-/tests/obj
+/tests/obj 
