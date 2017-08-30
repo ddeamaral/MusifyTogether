@@ -1,0 +1,9 @@
+/bin
+/obj
+wwwroot/lib
+wwwroot/images
+*.ico
+*.min.js
+*.min.css
+*.min.css.* 
+
