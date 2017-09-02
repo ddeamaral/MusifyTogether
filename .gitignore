@@ -7,3 +7,4 @@ wwwroot/images
 *.min.css
 *.min.css.* 
 /Musify.Tests/obj 
+  

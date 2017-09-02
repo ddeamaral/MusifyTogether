@@ -7,5 +7,7 @@ namespace Musify.Models
         public string RequestId { get; set; }
 
         public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
+
+        public bool testing { get; set; }
     }
 }
